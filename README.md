@@ -1,6 +1,6 @@
 # Library
 
-xxx
+A django rest api project that peforms CRUD on books in a library
 
 
 ## Table of Contents
